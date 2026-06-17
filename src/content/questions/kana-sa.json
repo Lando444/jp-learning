@@ -1,0 +1,67 @@
+[
+  {
+    "id": "kana-sa-001",
+    "stem": "「さ」的罗马音是什么？",
+    "options": [
+      { "id": "A", "text": "sa" },
+      { "id": "B", "text": "shi" },
+      { "id": "C", "text": "su" },
+      { "id": "D", "text": "so" }
+    ],
+    "answer": "A",
+    "explanation": "「さ」的罗马音是 sa。",
+    "knowledgePoint": "平假名 さ"
+  },
+  {
+    "id": "kana-sa-002",
+    "stem": "「し」的罗马音是什么？",
+    "options": [
+      { "id": "A", "text": "sa" },
+      { "id": "B", "text": "si" },
+      { "id": "C", "text": "shi" },
+      { "id": "D", "text": "su" }
+    ],
+    "answer": "C",
+    "explanation": "「し」通常写作 shi，不是 si。",
+    "knowledgePoint": "平假名 し"
+  },
+  {
+    "id": "kana-sa-003",
+    "stem": "哪个是假名「す」？",
+    "options": [
+      { "id": "A", "text": "さ" },
+      { "id": "B", "text": "し" },
+      { "id": "C", "text": "す" },
+      { "id": "D", "text": "せ" }
+    ],
+    "answer": "C",
+    "explanation": "「す」读作 su。",
+    "knowledgePoint": "平假名 す"
+  },
+  {
+    "id": "kana-sa-004",
+    "stem": "「せ」的罗马音是什么？",
+    "options": [
+      { "id": "A", "text": "se" },
+      { "id": "B", "text": "so" },
+      { "id": "C", "text": "shi" },
+      { "id": "D", "text": "su" }
+    ],
+    "answer": "A",
+    "explanation": "「せ」的罗马音是 se。",
+    "knowledgePoint": "平假名 せ"
+  },
+  {
+    "id": "kana-sa-005",
+    "stem": "哪个是假名「そ」？",
+    "options": [
+      { "id": "A", "text": "せ" },
+      { "id": "B", "text": "そ" },
+      { "id": "C", "text": "す" },
+      { "id": "D", "text": "し" }
+    ],
+    "answer": "B",
+    "explanation": "「そ」读作 so。",
+    "knowledgePoint": "平假名 そ"
+  }
+]

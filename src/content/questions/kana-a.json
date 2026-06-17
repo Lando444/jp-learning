@@ -1,0 +1,67 @@
+[
+  {
+    "id": "kana-a-001",
+    "stem": "「あ」的罗马音是什么？",
+    "options": [
+      { "id": "A", "text": "a" },
+      { "id": "B", "text": "i" },
+      { "id": "C", "text": "u" },
+      { "id": "D", "text": "e" }
+    ],
+    "answer": "A",
+    "explanation": "「あ」的罗马音是 a。",
+    "knowledgePoint": "平假名 あ"
+  },
+  {
+    "id": "kana-a-002",
+    "stem": "「い」的罗马音是什么？",
+    "options": [
+      { "id": "A", "text": "a" },
+      { "id": "B", "text": "i" },
+      { "id": "C", "text": "u" },
+      { "id": "D", "text": "o" }
+    ],
+    "answer": "B",
+    "explanation": "「い」的罗马音是 i。",
+    "knowledgePoint": "平假名 い"
+  },
+  {
+    "id": "kana-a-003",
+    "stem": "「う」的罗马音是什么？",
+    "options": [
+      { "id": "A", "text": "e" },
+      { "id": "B", "text": "o" },
+      { "id": "C", "text": "u" },
+      { "id": "D", "text": "a" }
+    ],
+    "answer": "C",
+    "explanation": "「う」的罗马音是 u。",
+    "knowledgePoint": "平假名 う"
+  },
+  {
+    "id": "kana-a-004",
+    "stem": "哪个是假名「え」？",
+    "options": [
+      { "id": "A", "text": "あ" },
+      { "id": "B", "text": "い" },
+      { "id": "C", "text": "え" },
+      { "id": "D", "text": "お" }
+    ],
+    "answer": "C",
+    "explanation": "「え」读作 e。",
+    "knowledgePoint": "平假名 え"
+  },
+  {
+    "id": "kana-a-005",
+    "stem": "哪个是假名「お」？",
+    "options": [
+      { "id": "A", "text": "お" },
+      { "id": "B", "text": "う" },
+      { "id": "C", "text": "え" },
+      { "id": "D", "text": "い" }
+    ],
+    "answer": "A",
+    "explanation": "「お」读作 o。",
+    "knowledgePoint": "平假名 お"
+  }
+]

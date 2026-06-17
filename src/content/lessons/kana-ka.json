@@ -1,0 +1,36 @@
+{
+  "id": "kana-ka",
+  "stage": "五十音入门",
+  "title": "平假名 か行",
+  "subtitle": "认识 か、き、く、け、こ，并区分它们和 あ行 的读音。",
+  "goal": "完成本课后，你应该能读出 か行 假名，并在选择题中正确识别它们。",
+  "kanaItems": [
+    {
+      "kana": "か",
+      "romaji": "ka",
+      "tip": "k 加 a，发 ka。"
+    },
+    {
+      "kana": "き",
+      "romaji": "ki",
+      "tip": "k 加 i，发 ki。"
+    },
+    {
+      "kana": "く",
+      "romaji": "ku",
+      "tip": "k 加 u，发 ku。"
+    },
+    {
+      "kana": "け",
+      "romaji": "ke",
+      "tip": "k 加 e，发 ke。"
+    },
+    {
+      "kana": "こ",
+      "romaji": "ko",
+      "tip": "k 加 o，发 ko。"
+    }
+  ],
+  "commonMistake": "か行整体带有 k 的辅音起始，不要把 き、け 和类似形状的假名混淆。",
+  "questionSetId": "kana-ka"
+}

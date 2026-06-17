@@ -1,0 +1,36 @@
+{
+  "id": "kana-sa",
+  "stage": "五十音入门",
+  "title": "平假名 さ行",
+  "subtitle": "认识 さ、し、す、せ、そ，注意 し 的读音是 shi。",
+  "goal": "完成本课后，你应该能识别 さ行 假名，并记住 し 的特殊罗马音。",
+  "kanaItems": [
+    {
+      "kana": "さ",
+      "romaji": "sa",
+      "tip": "s 加 a，发 sa。"
+    },
+    {
+      "kana": "し",
+      "romaji": "shi",
+      "tip": "不是 si，常写作 shi。"
+    },
+    {
+      "kana": "す",
+      "romaji": "su",
+      "tip": "s 加 u，发 su。"
+    },
+    {
+      "kana": "せ",
+      "romaji": "se",
+      "tip": "s 加 e，发 se。"
+    },
+    {
+      "kana": "そ",
+      "romaji": "so",
+      "tip": "s 加 o，发 so。"
+    }
+  ],
+  "commonMistake": "さ行里最容易忘的是 し，它不是 si。做题时优先记住这个特殊点。",
+  "questionSetId": "kana-sa"
+}

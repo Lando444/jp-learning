@@ -1,0 +1,67 @@
+[
+  {
+    "id": "kana-ka-001",
+    "stem": "「か」的罗马音是什么？",
+    "options": [
+      { "id": "A", "text": "ka" },
+      { "id": "B", "text": "ki" },
+      { "id": "C", "text": "ku" },
+      { "id": "D", "text": "ko" }
+    ],
+    "answer": "A",
+    "explanation": "「か」的罗马音是 ka。",
+    "knowledgePoint": "平假名 か"
+  },
+  {
+    "id": "kana-ka-002",
+    "stem": "「き」的罗马音是什么？",
+    "options": [
+      { "id": "A", "text": "ka" },
+      { "id": "B", "text": "ki" },
+      { "id": "C", "text": "ke" },
+      { "id": "D", "text": "ko" }
+    ],
+    "answer": "B",
+    "explanation": "「き」的罗马音是 ki。",
+    "knowledgePoint": "平假名 き"
+  },
+  {
+    "id": "kana-ka-003",
+    "stem": "哪个是假名「く」？",
+    "options": [
+      { "id": "A", "text": "か" },
+      { "id": "B", "text": "き" },
+      { "id": "C", "text": "く" },
+      { "id": "D", "text": "け" }
+    ],
+    "answer": "C",
+    "explanation": "「く」读作 ku。",
+    "knowledgePoint": "平假名 く"
+  },
+  {
+    "id": "kana-ka-004",
+    "stem": "「け」的罗马音是什么？",
+    "options": [
+      { "id": "A", "text": "ku" },
+      { "id": "B", "text": "ko" },
+      { "id": "C", "text": "ke" },
+      { "id": "D", "text": "ka" }
+    ],
+    "answer": "C",
+    "explanation": "「け」的罗马音是 ke。",
+    "knowledgePoint": "平假名 け"
+  },
+  {
+    "id": "kana-ka-005",
+    "stem": "哪个是假名「こ」？",
+    "options": [
+      { "id": "A", "text": "こ" },
+      { "id": "B", "text": "け" },
+      { "id": "C", "text": "く" },
+      { "id": "D", "text": "か" }
+    ],
+    "answer": "A",
+    "explanation": "「こ」读作 ko。",
+    "knowledgePoint": "平假名 こ"
+  }
+]

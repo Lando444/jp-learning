@@ -1,0 +1,23 @@
+[
+  {
+    "id": "kana-a",
+    "title": "平假名 あ行",
+    "stage": "五十音入门",
+    "status": "available",
+    "estimatedMinutes": 6
+  },
+  {
+    "id": "kana-ka",
+    "title": "平假名 か行",
+    "stage": "五十音入门",
+    "status": "available",
+    "estimatedMinutes": 6
+  },
+  {
+    "id": "kana-sa",
+    "title": "平假名 さ行",
+    "stage": "五十音入门",
+    "status": "available",
+    "estimatedMinutes": 6
+  }
+]
